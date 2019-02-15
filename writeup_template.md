@@ -121,7 +121,7 @@ As for training,
 As there can be unlimited number of images augmented, I set the samples per epoch to 20,000. I tried from 1 to 200 epochs but I found 5-10 epochs is good enough to produce a well trained model for the lake side track. The batch size of 40 was chosen as that is the maximum size which does not cause out of memory error on my Mac with NVIDIA GeForce GT 650M 1024 MB.
 
 
-![png][2019_02_05_14_37_50_122.jpg]
+![png][run1/2019_02_05_14_37_50_122.jpg]
 ![alt text][2019_02_05_14_37_51_510]
 ![alt text][2019_02_05_14_38_14_842]
 #### 3. Outout
